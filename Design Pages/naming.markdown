@@ -5,7 +5,7 @@ permalink: "/design/naming"
 parent: Design Elements
 ---
 
-## Naming
+# Naming
 
 The character idea of Abir revolves around her being a Belah’dian, people from an ancient civilization that worships Azeyma, the Warden. As seen by the Sunken Temple of Qarn, ancient Belah’dia has a resemblance to real-world ancient Egyptian temples. As such, we can assume that Azeyma was heavily inspired by the ancient Egyptian sun goddesses, as her symbol is The Radiant Sun.
 
@@ -19,6 +19,14 @@ From the RPC Wiki[<sup>1</sup>][1]:
 ‘Abir’ was chosen as the first name for its meaning in the hebrew language, meaning “Protector” or “Shield”.[<sup>2</sup>][2] This followed the trend explained by the Arabic word for asim, which also means “protector”. Keeping true to the Arabian theme, ‘Abir’ also serves as a feminine name in the Arabic language meaning “Perfume” or “Aroma”.[<sup>3</sup>][3] Although the Arabian meaning of ‘Abir’ played no role in the design of the character originally, one interpretation of ‘Abir’ can refer to the “aroma of a flower”, which ties back to the character as she is often seen tending to her garden plants (or as she often refers to them as her “Planties”).
 
 The overall theme of Abir comes from the Bengali meaning for the name. As seen in the style of her hair, ‘Abir’ in Bengali means “the reddish color of the sky during dusk”. This ties into the character in two distinct ways. In her overall color palette, see is often seen in dark purple with red highlights, referring back to the meaning of the name to symbolize the sun setting during dusk. Tying into her backstory, Abir has a hidden darkness within her that is unknown to the Belah'dian people during their ancient times. Symbolically, this hidden darkness refers to the sun setting, and the rise of the moon. “For what is night, but the absence of the sun?” Abir is the only Belah’dian who can not only draw power from the sun via Azeyma’s blessing, but the dark powers of the moon as well.
+
+## Sources
+
+1: [FFXIV Roleplays - The Twelve / Azeyma the Warden][1]
+
+2: [Abarim Publications - Abir Meaning][2]
+
+3: [Baby Name Wizard - Girl / Abir][3]
 
 [1]: https://wiki.ffxiv-roleplayers.com/pages/Lore:The_Twelve#Azeyma.2C_the_Warden
 [2]: http://www.abarim-publications.com/Meaning/Abir.html
