@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Design Elements
-permalink: /design/
+title: Naming
+permalink: "/design/naming"
+parent: Design Elements
 ---
-
-# Design Elements
-
-In this section I’ll go over some design decisions when creating Abir Azima.
 
 ## Naming
 
