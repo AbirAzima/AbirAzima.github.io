@@ -2,18 +2,15 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 99
+nav_order: 98
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Social Media & External Links
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Twitter | [www.twitter.com/AbirAzima][1]
+Lodstone | [na.finalfantasyxiv.com/lodestone/character/14748407][2]
 
-
-[jekyll-organization]: https://github.com/jekyll
+[1]: https://www.twitter.com/AbirAzima
+[2]: https://na.finalfantasyxiv.com/lodestone/character/14748407/

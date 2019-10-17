@@ -22,11 +22,11 @@ The overall theme of Abir comes from the Bengali meaning for the name. As seen i
 
 ## Sources
 
-1: [FFXIV Roleplays - The Twelve / Azeyma the Warden][1]
+[1] "Lore:The Twelve - RPC Library - FFXIV Roleplayers." 18 Apr. 2016, [https://wiki.ffxiv-roleplayers.com/pages/Lore:The_Twelve#Azeyma.2C_the_Warden][1]. Accessed 23 Sep. 2019.
 
-2: [Abarim Publications - Abir Meaning][2]
+[2] "Abir - Abarim Publications." 28 Nov. 2014, [http://www.abarim-publications.com/Meaning/Abir.html][2]. Accessed 23 Sep. 2019.
 
-3: [Baby Name Wizard - Girl / Abir][3]
+[3] "Abir Name Meaning & Origin - Baby Name Wizard." [http://www.babynamewizard.com/baby-name/girl/abir][3]. Accessed 23 Sep. 2019.
 
 [1]: https://wiki.ffxiv-roleplayers.com/pages/Lore:The_Twelve#Azeyma.2C_the_Warden
 [2]: http://www.abarim-publications.com/Meaning/Abir.html
