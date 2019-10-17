@@ -23,7 +23,7 @@ email: AbirAzima@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the offical lore website for Abir Azima!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abirazima.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abirazima.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AbirAzima
 github_username: Abir Azima
 
